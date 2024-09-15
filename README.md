@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peterson-ai
+- 👋 Hi, I’m [@Peterson-ai](https://github.com/Peterson-ai/Peterson-ai/tree/main)
 - 👀 I’m interested in Artificial Intelligence, Software developement, and innovative tech solutions.
 - 🌱 I’m currently learning iPhone App Development with Swift and AWS Cloud Practioner.
 - 💞️ I’m looking to collaborate on AI-driven projects, mobile app development, and cloud-based solutions.
